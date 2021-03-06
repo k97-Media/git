@@ -7,10 +7,10 @@ bo sairkrdni hamu Alqakan [Klik lera bka]()
 -----------------------------------------------------
 ## Listi hamu alqakan :
 
-* [Alqai yekem (Git chia ??)](https://github.com/k97-Media/git/blob/main/README.md#17)
-* [Alqai dwam (Dabazandni Git)](https://github.com/k97-Media/git/blob/main/README.md#25)
-* [Alqai seyam (Terminal)](https://github.com/k97-Media/git/blob/main/README.md#41)
-* [Alqai chwaram (Rekxstni Git + Fermanakan)](https://github.com/k97-Media/git/blob/main/README.md#86)
+* [Alqai yekem (Git chia ??)](https://github.com/k97-Media/git#alqay-yakam)
+* [Alqai dwam (Dabazandni Git)](https://github.com/k97-Media/git#alqay-dwam)
+* [Alqai seyam (Terminal)](https://github.com/k97-Media/git#alqay-seyam)
+* [Alqai chwaram (Rekxstni Git + Fermanakan)](https://github.com/k97-Media/git#alqay-chwaram)
 
 ------------------------------------------------
 
