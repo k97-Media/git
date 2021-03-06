@@ -7,10 +7,10 @@ bo sairkrdni hamu Alqakan [Klik lera bka]()
 -----------------------------------------------------
 ## Listi hamu alqakan :
 
-* [Alqai yekem (Git chia ??)]()
-* [Alqai dwam (Dabazandni Git)]()
-* [Alqai seyam (Terminal)]()
-* [Alqai chwaram (Rekxstni Git + Fermanakan)]()
+* [Alqai yekem (Git chia ??)](https://github.com/k97-Media/git/blob/main/README.md#17)
+* [Alqai dwam (Dabazandni Git)](https://github.com/k97-Media/git/blob/main/README.md#25)
+* [Alqai seyam (Terminal)](https://github.com/k97-Media/git/blob/main/README.md#41)
+* [Alqai chwaram (Rekxstni Git + Fermanakan)](https://github.com/k97-Media/git/blob/main/README.md#86)
 
 ------------------------------------------------
 
@@ -83,9 +83,9 @@ Bo sairkrdn [Klik lera bka]()
   ```
 -----------------
 
-## Alqay Yakam
+## Alqay Chwaram
 
-Lam Alqayada baseki kurti **Git** akain.
+Lam Alqayada basi Rekxstn w Farmanakani git akain.
 
 Bo sairkrdn [Klik lera bka]()
 
