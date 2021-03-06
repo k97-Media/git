@@ -1,197 +1,166 @@
-# گیت
+# Git
 
-گیت بۆ ئاستی سەرەتای باسێکی گیت وە چۆنێتی بەکارهێنانی
-:لینکی هەموو ئەڵقەکان
+Git bo asti saratay, baseki kurti **Git** wa farmana grngakani.
+
+bo sairkrdni hamu Alqakan [Klik lera bka]()
 
 -----------------------------------------------------
+## Listi hamu alqakan :
 
-لیستی ئەڵقەکان
-
-()[ئەڵقەی یەکەم (گیت چییە؟)] -١
-()[ئەڵقەی دووەم (دابەزاندنی گیت)] -٢
-()[ئەڵقەی سێیەم (باسێکی کورتی تێرمیناڵ)] -٣
-()[ئەڵقەی چوارەم (ڕێکخستنی گیت + فەرمانەکان)] -٤
+* [Alqai yekem (Git chia ??)]()
+* [Alqai dwam (Dabazandni Git)]()
+* [Alqai seyam (Terminal)]()
+* [Alqai chwaram (Rekxstni Git + Fermanakan)]()
 
 ------------------------------------------------
 
-## ئەڵقەی یەکەم
+## Alqay Yakam
 
-لەم ئەڵقەیەدا باسێکی کورتی گیت ئەکەین
+Lam Alqayada baseki kurti **Git** akain.
 
-بۆ تەماشاکردن کلیک [لێرە بکە] ()
-
------------------
-
-## ئەڵقەی دووەم
-
-لەم ئەڵقەیەدا باسی دابەزاندنی گیت ئەکەین
-
-بۆ تەماشاکردن کلیک [لێرە بکە] ()
-
-
-### دابەزاندن لە ویندۆز
-
-[لینکی دابەزاندن]()
-
-### دابەزاندن لە لینۆکس
-
-تێرمیناڵ بکەرەوە وە لە ناویدا بنووسە 
-
-```
-$ sudo apt install git-all
-```
+Bo sairkrdn [Klik lera bka]()
 
 -----------------
 
-## ئەڵقەی سێیەم
+## Alqay Dwam
 
-لەم ئەڵقەیەدا باسێکی کورتی تێرمیناڵ ئەکەین لەگەڵ فەرمانەکانی تێرمیناڵ
+Lam Alqayada basi choneti dabazandni **Git** akain.
 
-بۆ تەماشاکردن کلیک [لێرە بکە] ()
+Bo sairkrdn [Klik lera bka]()
 
-بۆ چوونە ناو فۆڵدەرێک
+* **Dabazandn la Windows**
+  Linky dabazandn : 
+* **Dabazandn la Linux**
 
-```
-$ cd NAWI FOLDER/NAWI FOLDEReki tr
-```
-
-
-```
-$ cd Downloads/git
-```
-
-
-بۆ گەڕانەوە بۆ سەرەتا
-
-```
-$ cd
-```
-
-بۆ گەڕانەوە بۆ فۆڵدەری پێشوو
-
-```
-$ cd ../
-```
-بۆ دروستکردنی فایلێک
-
-```
-$ touch NAW.jor
-```
-
-```
-$ touch ferkari.txt
-```
-بۆ دروستکردنی فۆڵدەرێک
-
-```
-$ mkdir NAW
-```
-
-```
-$ mkdir Ferkari
-```
+  ```
+  $ sudo apt install git-all
+  ```
 
 -----------------
 
-## ئەڵقەی چوارەم
+## Alqay Seyam
 
-لەم ئەڵقەیەدا گیت ڕێک ئەخەین وە باسێکی فەرمانە سەرەتاییەکانی گیت ئەکەین
+Lam Alqayada baseki kurti **Terminal** akain lagal fermana sarataiakan.
 
-بۆ تەماشاکردن کلیک [لێرە بکە] ()
+Bo sairkrdn [Klik lera bka]()
 
-### ڕێکخستنی گیت
+* bo chwna naw **Folderek**
+  ```
+  $ cd NAWI FOLDER/NAWI FOLDEReki tr
+  ```
+  **Numwna** :
+  ```
+  $ cd Downloads/git
+  ```
 
+* bo garanawa bo serata
 
-بۆ دانانی ناوی بەکارهێنەر
+  ```
+  $ cd
+  ```
 
-```
-$ git config --global user.name "NAWI XOT"
-```
-**نموونە**
-```
-$ git config --global user.name "korak"
-```
-----------------------------
+* bo garanawa bo **Folder**y peshw
 
-بۆ دانانی ئیمەیڵی بەکارهێنەر
+  ```
+  $ cd ../
+  ```
+* bo drwstkdni **File**
 
+  ```
+  $ touch NAW.jor
+  ```
+  **Nmuna** :
+  ```
+  $ touch ferkari.txt
+  ```
+* bo drwstkrdni **Folder**
+  ```
+  $ mkdir NAW
+  ```
+  **Nmwna** :
+  ```
+  $ mkdir Ferkari
+  ```
+-----------------
 
-```
-$ git config --global user.email EMAILakat@nazanm.com
-```
-**نموونە**
-```
-$ git config --global user.email korak@example.com
-```
---------------------------------------------
+## Alqay Yakam
 
-بۆ دانانی ئەو پڕۆگرامەی کە نامەی کۆمیتی پێ ئەنووسین
+Lam Alqayada baseki kurti **Git** akain.
 
-```
-$ git config --global core.editor nano
-```
+Bo sairkrdn [Klik lera bka]()
 
 -----------------
 
-### فەرمانەکانی گیت
+### Rekxstni Git
+* Bo danani nawi bakarhenar
+  ```
+  $ git config --global user.name "NAWI XOT"
+  ```
+  **Nmwna** :
+  ```
+  $ git config --global user.name "korak"
+  ```
+* Bo danani Emaili bekarhenar
 
-بۆ دابەزاندنی ڕیپۆیەک
+  ```
+  $ git config --global user.email EMAILakat@nazanm.com
+  ```
+  **Nmwna** :
+  ```
+  $ git config --global user.email korak@example.com
+  ```
+* Bo diari krdni aw Programmai komiti Giti pe anwsin
+  ```
+  $ git config --global core.editor nano
+  ```
+-----------------
 
-```
-$ git clone URL
-```
-**نموونە**
-```
-$ git clone https://github.com/k97-Media/git.git
-```
------------------------------------------
+### Fermanakani Git
 
-بۆ سەیرکردنی گۆڕانکارییەکان
+* Bo dabazandni **Repo**iak
 
-```
-$ git status
-```
+  ```
+  $ git clone URL
+  ```
+  **Nmwna** :
+  ```
+  $ git clone https://github.com/k97-Media/git.git
+  ```
+* Bo sairkrdni Gorankariakan
+  ```
+  $ git status
+  ```
+* Bo nardni gorankariakan bo **Bashi Staging**
+  * Am farmana hamw aw **Fail**anai gorawn aneret bo **Bashi Staging**
+    ```
+    $ git add .
+    ```
+  * Am farmana tanha aw **Fail**a aneret bo **Bashi Staiging** ka nawakai anwsin
+    ```
+    $ git add NAWI.jor
+    ```
+    **Nmwna** :
+    ```
+    $ git add ferkari.txt
+    ```
+* Bo Kommit krdn
+  * Bo kommit krdn wa nwsini namai kommit la haman katda
+    ```
+    $ git commit -m " NAMAKAT LERA ANWSI "
+    ```
+    **Nmwna** :
 
-------------------------------------------
-بۆ ناردنی گۆڕانکاریەکان بۆ بەشی ستەیجین
-
-ئەم فەرمانە هەموو ئەو فایلانەی گۆڕاون ئەنێرێت بۆ بەشی ستەیجین
-```
-$ git add .
-```
-ئەم فەرمانە تەنها ئەو فایلە ئەنێرێتە بەشی ستەیجین کە ناوەکەی نووسراوە
-```
-$ git add NAWI.jor
-```
-**نموونە**
-```
-$ git add ferkari.txt
-```
-------------------------------------------
-
-بۆ کۆمیت کردن لەگەل نووسینی نامەی کۆمیت لە هەمان کاتدا
-
-```
-$ git commit -m " NAMAKAT LERA ANWSI "
-```
-**نموونە**
-
-```
-$ git commit -m " Gorini rangi background "
-```
-
-بۆ کۆمیت کردن وە نووسینی نامەی کۆمیت بە درێژی
-
-```
-$ git commit
-```
----------------------------------------------
-
-بۆ ناردنی گۆڕانکارییەکان بۆ ڕیپۆی سەرەکی
-
-```
-$ git push
-```
+    ```
+    $ git commit -m " Gorini rangi background "
+    ```
+  * bo kommit krdn wa nwsini namai kommit ba drezhi
+    ```
+    $ git commit
+    ```
+* Bo nardni gorankariakan bo **Repo**i saraki
+  ```
+  $ git push
+  ```
 
 
 ----------------------------------------------------------
