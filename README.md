@@ -1,19 +1,201 @@
-# git
-A beginner guide to Git
+# گیت
+
+گیت بۆ ئاستی سەرەتای باسێکی گیت وە چۆنێتی بەکارهێنانی
+:لینکی هەموو ئەڵقەکان
+
+-----------------------------------------------------
+
+لیستی ئەڵقەکان
+
+()[ئەڵقەی یەکەم (گیت چییە؟)] -١
+()[ئەڵقەی دووەم (دابەزاندنی گیت)] -٢
+()[ئەڵقەی سێیەم (باسێکی کورتی تێرمیناڵ)] -٣
+()[ئەڵقەی چوارەم (ڕێکخستنی گیت + فەرمانەکان)] -٤
+
+------------------------------------------------
+
+## ئەڵقەی یەکەم
+
+لەم ئەڵقەیەدا باسێکی کورتی گیت ئەکەین
+
+بۆ تەماشاکردن کلیک [لێرە بکە] ()
 
 -----------------
 
-This Repo will have all the codes and guides used in the **Git tutorial** on the **[Youtube Channel](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)**
+## ئەڵقەی دووەم
 
-_______________________________________
+لەم ئەڵقەیەدا باسی دابەزاندنی گیت ئەکەین
 
-## Branches :
+بۆ تەماشاکردن کلیک [لێرە بکە] ()
 
-* [Lesson 1](https://github.com/k97-Media/git/tree/Lesson_1)
-    Intro
-* [Lesson 2](https://github.com/k97-Media/git/tree/Lesson_2)
-    Installation
-* [Lesson 3](https://github.com/k97-Media/git/tree/Lesson_3)
-    * Configuration
-    * Basic Workflow
 
+### دابەزاندن لە ویندۆز
+
+[لینکی دابەزاندن]()
+
+### دابەزاندن لە لینۆکس
+
+تێرمیناڵ بکەرەوە وە لە ناویدا بنووسە 
+
+```
+$ sudo apt install git-all
+```
+
+-----------------
+
+## ئەڵقەی سێیەم
+
+لەم ئەڵقەیەدا باسێکی کورتی تێرمیناڵ ئەکەین لەگەڵ فەرمانەکانی تێرمیناڵ
+
+بۆ تەماشاکردن کلیک [لێرە بکە] ()
+
+بۆ چوونە ناو فۆڵدەرێک
+
+```
+$ cd NAWI FOLDER/NAWI FOLDEReki tr
+```
+
+
+```
+$ cd Downloads/git
+```
+
+
+بۆ گەڕانەوە بۆ سەرەتا
+
+```
+$ cd
+```
+
+بۆ گەڕانەوە بۆ فۆڵدەری پێشوو
+
+```
+$ cd ../
+```
+بۆ دروستکردنی فایلێک
+
+```
+$ touch NAW.jor
+```
+
+```
+$ touch ferkari.txt
+```
+بۆ دروستکردنی فۆڵدەرێک
+
+```
+$ mkdir NAW
+```
+
+```
+$ mkdir Ferkari
+```
+
+-----------------
+
+## ئەڵقەی چوارەم
+
+لەم ئەڵقەیەدا گیت ڕێک ئەخەین وە باسێکی فەرمانە سەرەتاییەکانی گیت ئەکەین
+
+بۆ تەماشاکردن کلیک [لێرە بکە] ()
+
+### ڕێکخستنی گیت
+
+
+بۆ دانانی ناوی بەکارهێنەر
+
+```
+$ git config --global user.name "NAWI XOT"
+```
+**نموونە**
+```
+$ git config --global user.name "korak"
+```
+----------------------------
+
+بۆ دانانی ئیمەیڵی بەکارهێنەر
+
+
+```
+$ git config --global user.email EMAILakat@nazanm.com
+```
+**نموونە**
+```
+$ git config --global user.email korak@example.com
+```
+--------------------------------------------
+
+بۆ دانانی ئەو پڕۆگرامەی کە نامەی کۆمیتی پێ ئەنووسین
+
+```
+$ git config --global core.editor nano
+```
+
+-----------------
+
+### فەرمانەکانی گیت
+
+بۆ دابەزاندنی ڕیپۆیەک
+
+```
+$ git clone URL
+```
+**نموونە**
+```
+$ git clone https://github.com/k97-Media/git.git
+```
+-----------------------------------------
+
+بۆ سەیرکردنی گۆڕانکارییەکان
+
+```
+$ git status
+```
+
+------------------------------------------
+بۆ ناردنی گۆڕانکاریەکان بۆ بەشی ستەیجین
+
+ئەم فەرمانە هەموو ئەو فایلانەی گۆڕاون ئەنێرێت بۆ بەشی ستەیجین
+```
+$ git add .
+```
+ئەم فەرمانە تەنها ئەو فایلە ئەنێرێتە بەشی ستەیجین کە ناوەکەی نووسراوە
+```
+$ git add NAWI.jor
+```
+**نموونە**
+```
+$ git add ferkari.txt
+```
+------------------------------------------
+
+بۆ کۆمیت کردن لەگەل نووسینی نامەی کۆمیت لە هەمان کاتدا
+
+```
+$ git commit -m " NAMAKAT LERA ANWSI "
+```
+**نموونە**
+
+```
+$ git commit -m " Gorini rangi background "
+```
+
+بۆ کۆمیت کردن وە نووسینی نامەی کۆمیت بە درێژی
+
+```
+$ git commit
+```
+---------------------------------------------
+
+بۆ ناردنی گۆڕانکارییەکان بۆ ڕیپۆی سەرەکی
+
+```
+$ git push
+```
+
+
+----------------------------------------------------------
+
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><img>](https://twitter.com/K97Media?s=09)
+ [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><img>](https://www.instagram.com/k97media/?igshid=1f5uecjm3zoau)
+ [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img>](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
