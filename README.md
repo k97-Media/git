@@ -2,7 +2,7 @@
 
 Git bo asti saratay, baseki kurti **Git** wa farmana grngakani.
 
-bo sairkrdni hamu Alqakan [Klik lera bka]()
+bo sairkrdni hamu Alqakan [Klik lera bka](https://www.youtube.com/playlist?list=PLDPXog3mqHRa5F7S6-Z5Cwn00xniFGPP_)
 
 -----------------------------------------------------
 ## Listi hamu alqakan :
@@ -18,7 +18,7 @@ bo sairkrdni hamu Alqakan [Klik lera bka]()
 
 Lam Alqayada baseki kurti **Git** akain.
 
-Bo sairkrdn [Klik lera bka]()
+Bo sairkrdn [Klik lera bka](https://youtu.be/FdJL9kyfGIw)
 
 -----------------
 
