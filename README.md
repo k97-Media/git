@@ -26,7 +26,7 @@ Bo sairkrdn [Klik lera bka](https://youtu.be/FdJL9kyfGIw)
 
 Lam Alqayada basi choneti dabazandni **Git** akain.
 
-Bo sairkrdn [Klik lera bka]()
+**Alqaka la YOUTUBE jare bar dast nia**
 
 * **Dabazandn la Windows**
   Linky dabazandn : 
@@ -42,7 +42,7 @@ Bo sairkrdn [Klik lera bka]()
 
 Lam Alqayada baseki kurti **Terminal** akain lagal fermana sarataiakan.
 
-Bo sairkrdn [Klik lera bka]()
+**Alqaka la YOUTUBE jare bar dast nia**
 
 * bo chwna naw **Folderek**
   ```
@@ -87,8 +87,7 @@ Bo sairkrdn [Klik lera bka]()
 
 Lam Alqayada basi Rekxstn w Farmanakani git akain.
 
-Bo sairkrdn [Klik lera bka]()
-
+**Alqaka la YOUTUBE jare bar dast nia**
 -----------------
 
 ### Rekxstni Git
