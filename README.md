@@ -29,7 +29,7 @@ Lam Alqayada basi choneti dabazandni **Git** akain.
 **Alqaka la YOUTUBE jare bar dast nia**
 
 * **Dabazandn la Windows**
-  Linky dabazandn : 
+  Linky dabazandn : https://git-scm.com/downloads
 * **Dabazandn la Linux**
 
   ```
