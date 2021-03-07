@@ -44,6 +44,15 @@ Lam Alqayada baseki kurti **Terminal** akain lagal fermana sarataiakan.
 
 **Alqaka la YOUTUBE jare bar dast nia**
 
+* bo zanini aw shwenai ka teidain
+   ```
+  $ pwd
+  ```
+* bo pishandani hamu aw **Folder** w **Fail**anai ka la shwenkda han
+   ```
+  $ ls
+  ```
+
 * bo chwna naw **Folderek**
   ```
   $ cd NAWI FOLDER/NAWI FOLDEReki tr
