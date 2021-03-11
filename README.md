@@ -26,7 +26,8 @@ Bo sairkrdn [Klik lera bka](https://youtu.be/FdJL9kyfGIw)
 
 Lam Alqayada basi choneti dabazandni **Git** akain.
 
-**Alqaka la YOUTUBE jare bar dast nia**
+Bo sairkrdn [Klik lera bka](
+https://www.youtube.com/watch?v=f0XSMyRUD-A)
 
 * **Dabazandn la Windows**
   Linky dabazandn : https://git-scm.com/downloads
