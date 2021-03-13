@@ -43,7 +43,8 @@ https://www.youtube.com/watch?v=f0XSMyRUD-A)
 
 Lam Alqayada baseki kurti **Terminal** akain lagal fermana sarataiakan.
 
-**Alqaka la YOUTUBE jare bar dast nia**
+Bo sairkrdn [Klik lera bka](https://youtu.be/FePMW-1oqcA)
+
 
 * bo zanini aw shwenai ka teidain
    ```
